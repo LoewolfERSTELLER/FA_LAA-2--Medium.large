@@ -19,4 +19,5 @@ Und soll mittel komplexen muster verstehen!
 Epochen:100
 <br>
 Neuronen:1000
+<br>
 Zeit für jeden Epoch: (noch nicht verfügbar)
