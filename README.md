@@ -15,7 +15,8 @@ Das Model wird deutlich mehr arbeitspeicher verbrauchen!
 <br>
 Und soll mittel komplexen muster verstehen!
 
-<h1>Medium Modell, in Training!</h1>
+<h1>Medium Modell, wird als erstes trainiert</h1>
 Epochen:100
 <br>
-Zeit für jeden epoch:7:30 min.
+Neuronen:1000
+Zeit für jeden Epoch: (noch nicht verfügbar)
